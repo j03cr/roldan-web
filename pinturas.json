@@ -1,0 +1,109 @@
+{
+  "pinturas": [
+    {
+      "id": 1,
+      "titulo": "Obra de referencia 01",
+      "ano": "2026",
+      "url": "images/obra-01.svg",
+      "alt": "Obra de referencia 01 de la maqueta"
+    },
+    {
+      "id": 2,
+      "titulo": "Obra de referencia 02",
+      "ano": "2026",
+      "url": "images/obra-02.svg",
+      "alt": "Obra de referencia 02 de la maqueta"
+    },
+    {
+      "id": 3,
+      "titulo": "Obra de referencia 03",
+      "ano": "2026",
+      "url": "images/obra-03.svg",
+      "alt": "Obra de referencia 03 de la maqueta"
+    },
+    {
+      "id": 4,
+      "titulo": "Obra de referencia 04",
+      "ano": "2026",
+      "url": "images/obra-04.svg",
+      "alt": "Obra de referencia 04 de la maqueta"
+    },
+    {
+      "id": 5,
+      "titulo": "Obra de referencia 05",
+      "ano": "2026",
+      "url": "images/obra-05.svg",
+      "alt": "Obra de referencia 05 de la maqueta"
+    },
+    {
+      "id": 6,
+      "titulo": "Obra de referencia 06",
+      "ano": "2026",
+      "url": "images/obra-06.svg",
+      "alt": "Obra de referencia 06 de la maqueta"
+    },
+    {
+      "id": 7,
+      "titulo": "Obra de referencia 07",
+      "ano": "2026",
+      "url": "images/obra-07.svg",
+      "alt": "Obra de referencia 07 de la maqueta"
+    },
+    {
+      "id": 8,
+      "titulo": "Obra de referencia 08",
+      "ano": "2026",
+      "url": "images/obra-08.svg",
+      "alt": "Obra de referencia 08 de la maqueta"
+    },
+    {
+      "id": 9,
+      "titulo": "Obra de referencia 09",
+      "ano": "2026",
+      "url": "images/obra-09.svg",
+      "alt": "Obra de referencia 09 de la maqueta"
+    },
+    {
+      "id": 10,
+      "titulo": "Obra de referencia 10",
+      "ano": "2026",
+      "url": "images/obra-10.svg",
+      "alt": "Obra de referencia 10 de la maqueta"
+    },
+    {
+      "id": 11,
+      "titulo": "Obra de referencia 11",
+      "ano": "2026",
+      "url": "images/obra-11.svg",
+      "alt": "Obra de referencia 11 de la maqueta"
+    },
+    {
+      "id": 12,
+      "titulo": "Obra de referencia 12",
+      "ano": "2026",
+      "url": "images/obra-12.svg",
+      "alt": "Obra de referencia 12 de la maqueta"
+    },
+    {
+      "id": 13,
+      "titulo": "Obra de referencia 13",
+      "ano": "2026",
+      "url": "images/obra-13.svg",
+      "alt": "Obra de referencia 13 de la maqueta"
+    },
+    {
+      "id": 14,
+      "titulo": "Obra de referencia 14",
+      "ano": "2026",
+      "url": "images/obra-14.svg",
+      "alt": "Obra de referencia 14 de la maqueta"
+    },
+    {
+      "id": 15,
+      "titulo": "Obra de referencia 15",
+      "ano": "2026",
+      "url": "images/obra-15.svg",
+      "alt": "Obra de referencia 15 de la maqueta"
+    }
+  ]
+}

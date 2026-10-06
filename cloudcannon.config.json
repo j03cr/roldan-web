@@ -1,0 +1,27 @@
+{
+  "source": "/",
+  "data_config": {
+    "pinturas": {
+      "path": "pinturas.json"
+    }
+  },
+  "file_config": [
+    {
+      "path": "/pinturas.json",
+      "_enabled_editors": ["data", "source"],
+      "_inputs": {
+        "pinturas": {
+          "type": "array",
+          "label": "Pinturas",
+          "comment": "Cada elemento representa una obra de la galería. La imagen se guarda en images/ y su ruta se indica en url."
+        }
+      }
+    }
+  ],
+  "collection_groups": [
+    {
+      "heading": "Contenido",
+      "collections": ["pinturas"]
+    }
+  ]
+}
